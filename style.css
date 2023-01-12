@@ -5,8 +5,8 @@
 }
 
 :root {
-  --bg-color: #0F0D13;
-  --bg-card-color: #2A2141;
+  --bg-color: #eae8ee;
+  --bg-card-color: #143b6e;
   --white-color: #E1E1E6;
 }
 
@@ -40,7 +40,7 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 9px;
+  border-radius: 20px;
 }
 
 .card {
